@@ -67,4 +67,4 @@ Learn Kotlin Programming, its basics and Fundamentals from scratch.
 
 ## Authors 
 
-* **Team Smartherd** 
+* **Team RonakAndroid** 
